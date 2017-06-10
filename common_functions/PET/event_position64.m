@@ -7,7 +7,7 @@ function [ xs,ys,idx_good ] = event_position64( channeldata )
 %channeldata = channeldata(:,idx);
     %channeldata = channeldata.^1;
 
-    
+    % a branch detector 64 made some updates
 
 %    channeldata = channeldata(:,idx);
     
