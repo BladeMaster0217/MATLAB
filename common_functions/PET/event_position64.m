@@ -7,7 +7,7 @@ function [ xs,ys,idx_good ] = event_position64( channeldata )
 %channeldata = channeldata(:,idx);
     %channeldata = channeldata.^1;
 
-    
+% This file is modified to support detector 64    
 
 %    channeldata = channeldata(:,idx);
     
