@@ -7,9 +7,10 @@ function [ xs,ys,idx_good ] = event_position64( channeldata )
 %channeldata = channeldata(:,idx);
     %channeldata = channeldata.^1;
 
+<<<<<<< .merge_file_a02932
 % This file is modified to support detector 64    
-
 % The master update the file again.
+% a branch detector 64 made some updates
 
 %    channeldata = channeldata(:,idx);
     
