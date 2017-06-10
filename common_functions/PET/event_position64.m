@@ -9,6 +9,8 @@ function [ xs,ys,idx_good ] = event_position64( channeldata )
 
 % This file is modified to support detector 64    
 
+% The master update the file again.
+
 %    channeldata = channeldata(:,idx);
     
     n_events = size(channeldata,1);
